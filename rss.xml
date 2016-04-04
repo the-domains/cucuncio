@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[cucuncio]]></title>
         <description><![CDATA[cucuncio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cucuncio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 13:09:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 13:23:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cucuncio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://qzprod.files.wordpress.com/2016/03/grand-deck_1_colorcorrected-crop.jpg?quality=80&strip=all&w=1600">]]></description>
+            <link>http://qz.com/643316/this-is-what-a-280000-watch-looks-like/</link>
+            <guid isPermaLink="false">333623df-945e-4f29-811b-001755b1af75</guid>
+            <pubDate>Mon, 04 Apr 2016 13:23:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Definita da Giosuè Carducci la Città dei cento orizzonti, Asolo è uno dei centri storici più suggestivi d’Italia. Raccolta entro le antiche mura che si diramano dalla Rocca, fortezza del XII° secolo, conserva in ogni scorcio testimonianze della sua millenaria storia.]]></title>
             <description><![CDATA[<article><h1>Definita da Giosuè Carducci la Città dei cento orizzonti, Asolo è uno dei centri storici più suggestivi d’Italia. Raccolta entro le antiche mura che si diramano dalla Rocca, fortezza del XII° secolo, conserva in ogni scorcio testimonianze della sua millenaria storia.</h1><p>Il cappero è un piccolo arbusto o suffrutice ramificato a portamento prostrato-ricadente.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/708db921-cc8b-47a7-bf5f-acd097279ae5.jpg"></article>]]></description>
-            <link>undefinedcapparis-spinosa-cresce-nel-tempo-fino-a-diventare-cucuncio/index.html</link>
+            <link>https://thegrid.ai/cucuncio/capparis-spinosa-cresce-nel-tempo-fino-a-diventare-cucuncio/index.html</link>
             <guid isPermaLink="false">888b47dd-7150-48da-9484-085f851e6484</guid>
             <pubDate>Mon, 04 Apr 2016 13:08:40 GMT</pubDate>
         </item>
