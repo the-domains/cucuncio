@@ -1,0 +1,28 @@
+name: cucuncio
+favicon: null
+layout_spectrum: 0.9912996240891516
+typography_spectrum: 0.14520353265106678
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.27626225748099387
+  lightness: 0.014534649439156055
+  saturation: 0.9864091803319752
+  rhythmicContrast: 0.8756591128185391
+purpose: []
